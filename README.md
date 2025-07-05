@@ -1,6 +1,6 @@
 This is a BMI (Body Mass Index) Calculator built using Python's customtkinter GUI framework, which helps users calculate their BMI based on height, weight, age, and gender inputs. The app also stores BMI records in an Oracle database and visualizes the trend using matplotlib charts.
 
-✅ Features:
+ Features:
 
 -> Clean dark-themed UI using customtkinter
 
@@ -16,7 +16,7 @@ Severe Thinness to Obese Class III
 
 -> Option to Clear inputs and Visualize past entries
 
-📦 Tech Stack:
+ Tech Stack:
 
 -> Frontend: Python, customtkinter, Pillow (for images)
 
@@ -24,7 +24,7 @@ Severe Thinness to Obese Class III
 
 -> Data Visualization: matplotlib
 
-📌 How to Use:
+ How to Use:
 
 -> Enter your height (cm), weight (kg), age, and select gender.
 
